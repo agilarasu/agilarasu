@@ -1,46 +1,33 @@
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Age-16-blue" />
-  <img src="https://img.shields.io/badge/Focus-Hacking-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Tamilnadu-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Agilarasu </h1>
-<h3 align="center">Python | Cyber Security</h3>
-</p>
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <base target="_blank">
+  <meta charset="UTF-8" />
+  <title>Agilarasu✌️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" type="text/css">
+  <!-- remember, jQuery is completely optional -->
+  <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
+  <script type="text/javascript" src="js/jquery.particleground.js"></script>
+  <script type="text/javascript" src="js/demo.js"></script>
+</head>
 
+<body>
 
+<div id="particles">
+  <div id="intro">
+      <h2 style="font-family: 'Syncopate', sans-serif; font-weight: 10;">I'm Agilarasu✌️</h2>
+        <hr style="width: 50%; background-color: #E83951; border-color: #E83951;">
+    <a href="https://www.twitter.com/agilarasu" style="color: white;"><i class="fab fa-twitter" style="font-size: 2em;"></i></a>
+    &nbsp
+    <a href="https://www.instagram.com/_agilarasu" style="color: white;"><i class="fab fa-instagram" style="font-size: 2em;"></i></a>
+    &nbsp
+    <a href="https://github.com/agilarasu" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a>
+    &nbsp
+    <a href="https://agilarasu.github.io" style="color: white;"><i class="fab fa-google" style="font-size: 2em;"></i></a>
+  </div>
+</div>
 
-<p align="center">
-  <em>
-    Hello, I am Agilarasu a <b>final year</b> School student from Tamilnadu<br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Spread Love , Not War✌</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔  *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  Kali Linux | Sublime Text
-  
-  <hr>
-  <p align="center">
-
-Last Edited on: 08/10/2021
-
-
-
-
-
+</body>
+</html>
