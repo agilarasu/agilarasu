@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on nothing🤷
-- 🌱 I’m currently learning Full Stack Developing
+- 🔭 I’m currently working on Grey AI🤷
+- 🌱 I’m currently learning C and networking 
 - 👯 I’m looking to collaborate on Python and web development projects
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
