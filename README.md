@@ -20,7 +20,7 @@
 <a href="https://twitter.com/agilarasu">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:agilarasu@cyberdude.com">
+<a href="mailto:agilarasusaravanan@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com">
