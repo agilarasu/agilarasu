@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on Grey AI🤷
-- 🌱 I’m currently learning C and networking 
-- 👯 I’m looking to collaborate on Python and web development projects
+- 🌱 I’m currently learning Ruby and Penetration Tools
+- 👯 I’m looking to collaborate on Python and Ruby projects
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
