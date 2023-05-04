@@ -2,7 +2,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">, I'm [Agilarasu!](https://agilarasu.github.io) 
 
 
-Hi there 👋
 - 🔭 I’m currently working on Grey AI🤷
 - 🌱 I’m currently learning Ruby and Penetration Tools
 - 👯 I’m looking to collaborate on Python and Ruby projects
@@ -21,6 +20,9 @@ My strong foundation in the **Debian Linux 🐧** operating system and **bash sc
 Take a look at my projects to get a better idea of my capabilities, and feel free to get in touch with me to discuss any potential opportunities.
 
 Thanks for stopping by! 😃
+
+**My Personal Website : <a href="https://arasan.tech">arasan.tech</a></a>**
+
 <a href="https://www.instagram.com/_agilarasu">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 </a>
