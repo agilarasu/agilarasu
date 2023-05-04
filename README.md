@@ -2,7 +2,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">, I'm [Agilarasu!](https://agilarasu.github.io) 
 
 
-
+Hi there 👋
 - 🔭 I’m currently working on Grey AI🤷
 - 🌱 I’m currently learning Ruby and Penetration Tools
 - 👯 I’m looking to collaborate on Python and Ruby projects
@@ -12,8 +12,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-On my GitHub profile, you can find a range of projects that showcase my skills in programming languages such as Python and Ruby. I also have a strong foundation in the Debian Linux operating system and bash scripting, which can be seen in some of my open-source contributions. Additionally, I have experience with Kali tools such as Metasploit and nmap, which I have used for various projects. My repositories include projects built with ReactJS, Django, .NET, and C, showcasing my diverse skill set. I use tools such as VSCode, Git, and GitHub Actions to ensure efficient collaboration and code management.
 
+
+I am a student with a strong passion for programming, and I specialize in languages such as Python 💻, Ruby 💎, and C. I also have experience in ReactJS 🌟, Django 🌐, and .NET 🌐, and am proficient in using tools such as VSCode, Git, and GitHub Actions 🚀.
+
+My strong foundation in the Debian Linux 🐧 operating system and bash scripting 💻, as well as experience with Kali tools such as Metasploit 🔨 and nmap 🗺️, further add to my skill set.
+
+Take a look at my projects to get a better idea of my capabilities, and feel free to get in touch with me to discuss any potential opportunities.
+
+Thanks for stopping by! 😃
 <a href="https://www.instagram.com/_agilarasu">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 </a>
