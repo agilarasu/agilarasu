@@ -14,9 +14,9 @@ Hi there 👋
 -->
 
 
-I am a student with a strong passion for programming, and I specialize in languages such as Python 💻, Ruby 💎, and C. I also have experience in ReactJS 🌟, Django 🌐, and .NET 🌐, and am proficient in using tools such as VSCode, Git, and GitHub Actions 🚀.
+I am a student with a strong passion for programming, and I specialize in languages such as **Python** 💻,**Ruby** 💎, and **C**. I also have experience in **ReactJS 🌟, Django 🌐, and .NET**🌐, and am proficient in using tools such as **VSCode, Git, and GitHub Actions 🚀**.
 
-My strong foundation in the Debian Linux 🐧 operating system and bash scripting 💻, as well as experience with Kali tools such as Metasploit 🔨 and nmap 🗺️, further add to my skill set.
+My strong foundation in the **Debian Linux 🐧** operating system and **bash scripting** 💻, as well as experience with Kali tools such as **Metasploit** 🔨 and **nmap 🗺️**, further add to my skill set.
 
 Take a look at my projects to get a better idea of my capabilities, and feel free to get in touch with me to discuss any potential opportunities.
 
