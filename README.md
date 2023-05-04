@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+On my GitHub profile, you can find a range of projects that showcase my skills in programming languages such as Python and Ruby. I also have a strong foundation in the Debian Linux operating system and bash scripting, which can be seen in some of my open-source contributions. Additionally, I have experience with Kali tools such as Metasploit and nmap, which I have used for various projects. My repositories include projects built with ReactJS, Django, .NET, and C, showcasing my diverse skill set. I use tools such as VSCode, Git, and GitHub Actions to ensure efficient collaboration and code management.
 
 <a href="https://www.instagram.com/_agilarasu">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
