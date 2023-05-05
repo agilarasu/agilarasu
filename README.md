@@ -21,7 +21,7 @@ Take a look at my projects to get a better idea of my capabilities, and feel fre
 
 Thanks for stopping by! 😃
 
-**My Personal Website : <a href="https://arasan.tech">arasan.tech</a></a>**
+**My Personal Website : <a href="https://dub.sh/arasan">arasan.tech</a></a>**
 
 <a href="https://www.instagram.com/_agilarasu">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
