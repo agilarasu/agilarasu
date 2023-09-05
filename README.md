@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on Grey AI🤷
-- 🌱 I’m currently learning Ruby and Penetration Tools
-- 👯 I’m looking to collaborate on Python and Ruby projects
+- 🌱 I’m currently learning DS and Penetration Tools
+- 👯 I’m looking to collaborate on Python and AI projects
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,9 +15,8 @@
 
 I am a student with a strong passion for programming, and I specialize in languages such as **Python** 💻,**Ruby** 💎, and **C**. I also have experience in **ReactJS 🌟, Django 🌐, and .NET**🌐, and am proficient in using tools such as **VSCode, Git, and GitHub Actions 🚀**.
 
-My strong foundation in the **Debian Linux 🐧** operating system and **bash scripting** 💻, as well as experience with Kali tools such as **Metasploit** 🔨 and **nmap 🗺️**, further add to my skill set.
 
-Take a look at my projects to get a better idea of my capabilities, and feel free to get in touch with me to discuss any potential opportunities.
+Take a look at my projects to get a better idea and feel free to get in touch with me to discuss any potential opportunities.
 
 Thanks for stopping by! 😃
 ## Tech Stack
@@ -63,8 +62,8 @@ Thanks for stopping by! 😃
 <br />
 
 ### About Me 🚀
-🌱 I’m just a Student with big Dreams </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🌱 I’m just a kid </br>
+👨‍💻  I am passionate about AI & I enjoy learning new things. </br>
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=agilarasu&show_icons=true&hide_border=true)&nbsp;&nbsp;
