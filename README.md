@@ -46,18 +46,6 @@ Thanks for stopping by! 😃
  
 **My Personal Website : <a href="https://dub.sh/arasan">arasan.tech</a></a>**
 
-<a href="https://www.instagram.com/_agilarasu">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
-</a>
-<a href="https://twitter.com/agilarasu">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:agilarasusaravanan@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br />
 
@@ -68,8 +56,7 @@ Thanks for stopping by! 😃
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=agilarasu&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![My Streak](http://github-readme-streak-stats.herokuapp.com?user=agilarasu&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)  
-![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agilarasu&layout=compact&langs_count=8&hide_border=true)
-![My Trophies](https://github-profile-trophy.vercel.app/?username=agilarasu&rank=-B&column=-1&no-frame=true&margin-w=10)
+
 <br />
 
 
