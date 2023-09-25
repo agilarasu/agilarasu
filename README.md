@@ -1,5 +1,5 @@
 
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">, I'm [Agilarasu!](https://agilarasu.github.io) 
+## Hey , I'm [Agilarasu!](https://agilarasu.github.io) 
 
 
 - 🔭 I’m currently working on Grey AI🤷
