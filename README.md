@@ -40,5 +40,3 @@ Thanks for stopping by! 😃
 
 ### 📕 Blog Posts
 -Will be updated soon...
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=agilarasu.agilarasu)
