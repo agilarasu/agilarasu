@@ -22,7 +22,6 @@ Thanks for stopping by! 😃
     
 </div>
  
-**My Personal Website : <a href="https://dub.sh/arasan">arasan.tech</a></a>**
 
 
 <br />
