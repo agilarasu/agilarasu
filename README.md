@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on Grey AI🤷
-- 🌱 I’m currently learning DS and Penetration Tools
-- 👯 I’m looking to collaborate on Python and AI projects
+- 🌱 I’m looking to collaborate on Python and AI projects
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
