@@ -12,7 +12,7 @@
 -->
 
 
-I am a student with a strong passion for programming, and I specialize in languages such as **Python** 💻,**TypeScript** 💎, and **Ruby**. I also have experience in **ReactJS 🌟, Django 🌐, and Node.js**🌐.
+I am a student with a strong passion for programming and Cyber Security, and I specialize in languages such as **Python** 💻,**TypeScript** 💎, and **Ruby**. I also have experience in **ReactJS 🌟, Django 🌐, and Node.js**🌐.
 
 
 Please take a look at my projects for a better idea and feel free to contact me to discuss any potential opportunities.
