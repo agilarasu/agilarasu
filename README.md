@@ -1,8 +1,8 @@
 
-## Hey , I'm [Agilarasu!](https://agilarasu.github.io) 
+## Hey, I'm [Agilarasu!](https://agilarasu.github.io) 
 
 
-- 🔭 I’m currently working on Grey AI🤷
+- 🔭 I’m currently working on AI-related projects
 - 🌱 I’m looking to collaborate on Python and AI projects
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,10 +12,10 @@
 -->
 
 
-I am a student with a strong passion for programming, and I specialize in languages such as **Python** 💻,**Ruby** 💎, and **C**. I also have experience in **ReactJS 🌟, Django 🌐, and .NET**🌐, and am proficient in using tools such as **VSCode, Git, and GitHub Actions 🚀**.
+I am a student with a strong passion for programming, and I specialize in languages such as **Python** 💻,**TypeScript** 💎, and **Ruby**. I also have experience in **ReactJS 🌟, Django 🌐, and Node.js**🌐.
 
 
-Take a look at my projects to get a better idea and feel free to get in touch with me to discuss any potential opportunities.
+Please take a look at my projects for a better idea and feel free to contact me to discuss any potential opportunities.
 
 Thanks for stopping by! 😃
     
@@ -26,7 +26,7 @@ Thanks for stopping by! 😃
 <br />
 
 ### About Me 🚀
-🌱 I’m just a kid </br>
+🌱  </br>
 👨‍💻  I am passionate about AI & I enjoy learning new things. </br>
 
 
