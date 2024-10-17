@@ -28,7 +28,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=agilarasu&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agilarasu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agilarasu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/agilarasu) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_agilarasu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agilarasu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/agilarasu) 
 
 
 [![](https://visitcount.itsvg.in/api?id=agilarasu&icon=5&color=0)](https://visitcount.itsvg.in)
