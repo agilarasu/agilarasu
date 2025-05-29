@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **3rd-Year IT Student** at KCT ('26) with a passion for building **AI solutions**, developing innovative **web applications**, and exploring the exciting field of **web security**. <br>I love creating impactful projects and diving deep into cutting-edge technologies.<br>
+I'm a **4th-Year IT Student** at KCT ('26) with a passion for building **AI solutions**, developing innovative **web applications**, and exploring the exciting field of **web security**. <br>I love creating impactful projects and diving deep into cutting-edge technologies.<br>
 
 # 💻 Tech Stack:
 
@@ -34,9 +34,8 @@ I'm a **3rd-Year IT Student** at KCT ('26) with a passion for building **AI solu
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=agilarasu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=agilarasu&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agilarasu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=agilarasu&theme=gotham&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=agilarasu&limit=5&theme=gotham&combine_all_yearly_contributions=true)
